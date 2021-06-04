@@ -1,3 +1,3 @@
 public class oo {
-    int a = 113;
+    int a = 1;
 }
