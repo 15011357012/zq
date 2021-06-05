@@ -2,7 +2,8 @@ public class oo {
     int a = 1666;
     public void main(){
 
-        System.out.printf("住");
+        System.out.printf("分" +
+                "");
 
     }
 }
