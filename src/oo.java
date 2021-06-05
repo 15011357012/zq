@@ -4,6 +4,16 @@ public class oo {
 
         System.out.printf("分住东方闪电" +
                 "");
+ System.out.printf("分" +
+                "");
+ System.out.printf("分" +
+                "");
+ System.out.printf("分" +
+                "");
+ System.out.printf("分" +
+                "");
+ System.out.printf("分" +
+                "");
 
 
 
