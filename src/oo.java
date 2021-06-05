@@ -3,5 +3,8 @@ public class oo {
     public void main(){
 
         System.out.printf("::");
+        System.out.printf("::");
+        System.out.printf("::");
+        System.out.printf("::");
     }
 }
