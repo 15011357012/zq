@@ -6,5 +6,11 @@ public class oo {
         System.out.printf("::");
         System.out.printf("::");
         System.out.printf("::");
+        System.out.printf("::");
+        System.out.printf("::");
+        System.out.printf("::");
+        System.out.printf("::");
+        System.out.printf("::");
+        System.out.printf("::");
     }
 }
